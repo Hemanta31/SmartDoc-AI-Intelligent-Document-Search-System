@@ -48,7 +48,7 @@ Legal and financial document analysis
 Knowledge base search platforms
 
 
-Future Improvements;-
+Future Improvements:-
 
 
 Web-based user interface
