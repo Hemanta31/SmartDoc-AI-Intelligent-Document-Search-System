@@ -9,7 +9,8 @@ The system processes PDF documents, extracts text content, and converts it into 
 This approach enables a smarter and more efficient document retrieval experience, making it useful for applications such as knowledge management, research document analysis, enterprise document search, and information retrieval systems.
 
 
-Features
+Features:-
+
 
 Extracts text from PDF documents
 
@@ -34,7 +35,8 @@ Vector Similarity Search
 Data Processing Libraries
 
 
-Applications
+Applications:-
+
 
 SmartDoc AI can be used in several real-world scenarios including:
 Enterprise document management
@@ -46,7 +48,8 @@ Legal and financial document analysis
 Knowledge base search platforms
 
 
-Future Improvements
+Future Improvements;-
+
 
 Web-based user interface
 
